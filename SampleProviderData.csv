@@ -1,0 +1,113 @@
+ Provider Name , Hire Month , Inactive or Term Month , Status , Role , Employment Type , Customer Name 
+Provider 1,Feb-20,NA,Active,BHMP,Employee,Customer 1
+Provider 2,Mar-20,NA,Active,BHMP,Employee,Customer 1
+Provider 3,Aug-20,NA,Active,BHMP,Employee,Customer 1
+Provider 4,Oct-20,NA,Active,Therapist,Employee,Customer 1
+Provider 5,Nov-20,NA,Active,BHMP,Employee,Customer 1
+Provider 6,Nov-20,NA,Active,BHMP,Employee,Customer 1
+Provider 7,Jan-21,NA,Active,Therapist,Independent Contractor,Customer 1
+Provider 8,Feb-21,NA,Active,Therapist,Employee,Customer 1
+Provider 9,Feb-21,NA,Active,Therapist,Employee,Customer 1
+Provider 10,May-21,NA,Active,Therapist,Employee,Customer 1
+Provider 11,May-21,NA,Active,Therapist,Employee,Customer 1
+Provider 12,Jun-21,NA,Active,Therapist,Employee,Customer 2
+Provider 13,Jun-21,NA,Active,Therapist,Employee,Customer 2
+Provider 14,Jun-21,NA,Active,Therapist,Employee,Customer 2
+Provider 15,Jun-21,NA,Active,Therapist,Employee,Customer 2
+Provider 16,Jun-21,NA,Active,Therapist,Employee,Customer 2
+Provider 17,Jul-21,NA,Active,BHMP,Employee,Outpatient
+Provider 18,Aug-21,NA,Active,BHMP,Employee,Customer 2
+Provider 19,Aug-21,NA,Active,Therapist,Employee,Customer 1
+Provider 20,Sep-21,NA,Active,Therapist,Employee,Customer 1
+Provider 21,Sep-21,NA,Active,Therapist,Employee,Customer 1
+Provider 22,Sep-21,NA,Active,BHMP,Employee,Customer 1
+Provider 23,Nov-21,NA,Active,Therapist,Employee,Customer 2
+Provider 24,Nov-21,NA,Active,BHMP,Employee,Customer 2
+Provider 25,Jan-22,NA,Active,BHMP,Employee,Customer 2
+Provider 26,Jan-22,NA,Active,BHMP,Employee,Customer 1
+Provider 27,Feb-22,NA,Active,Therapist,Employee,Outpatient
+Provider 28,Mar-22,NA,Active,Therapist,Employee,Customer 2
+Provider 29,Mar-22,NA,Active,BHMP,Employee,Customer 1
+Provider 30,Mar-22,NA,Active,BHMP,Employee,Customer 2
+Provider 31,Mar-22,NA,Active,Therapist,Employee,Customer 2
+Provider 32,Mar-22,NA,Active,BHMP,Employee,Customer 2
+Provider 33,Mar-22,NA,Active,Therapist,Employee,Outpatient
+Provider 34,Mar-22,NA,Active,BHMP,Employee,Customer 1
+Provider 35,Apr-22,NA,Active,BHMP,Employee,Outpatient
+Provider 36,Apr-22,NA,Active,BHMP,Employee,Customer 3
+Provider 37,Apr-22,NA,Active,Therapist,Independent Contractor,Outpatient
+Provider 38,Apr-22,NA,Active,BHMP,Employee,Customer 1
+Provider 39,Apr-22,NA,Active,Therapist,Employee,Customer 2
+Provider 40,Apr-22,NA,Active,Therapist,Employee,Customer 2
+Provider 41,Apr-22,NA,Active,BHMP,Employee,Customer 2
+Provider 42,Apr-22,NA,Active,BHMP,Employee,Customer 3
+Provider 43,Apr-22,NA,Active,BHMP,Employee,Customer 1
+Provider 44,May-22,NA,Active,Therapist,Employee,Outpatient
+Provider 45,May-22,NA,Active,Therapist,Employee,Outpatient
+Provider 46,May-22,NA,Active,Therapist,Employee,Customer 1
+Provider 47,Jun-22,NA,Active,Therapist,Employee,Outpatient
+Provider 48,Jun-22,NA,Active,Therapist,Employee,Customer 3
+Provider 49,Jun-22,NA,Active,Therapist,Employee,Outpatient
+Provider 50,Jul-22,NA,Active,Therapist,Employee,Customer 1
+Provider 51,Jul-22,NA,Active,BHMP,Employee,Outpatient
+Provider 52,Jul-22,NA,Active,Therapist,Employee,Customer 1
+Provider 53,Jul-22,NA,Active,BHC,Employee,Customer 2
+Provider 54,Aug-22,NA,Active,Therapist,Employee,Customer 1
+Provider 55,Aug-22,NA,Active,BHMP,Employee,Customer 2
+Provider 56,Aug-22,NA,Active,Therapist,Employee,Outpatient
+Provider 57,Aug-22,NA,Active,BHC,Employee,Customer 2
+Provider 58,Aug-22,NA,Active,BHMP,Employee,Customer 1
+Provider 59,Aug-22,NA,Active,Therapist,Employee,Outpatient
+Provider 60,Aug-22,NA,Active,BHMP,Employee,Outpatient
+Provider 61,Sep-22,NA,Active,BHMP,Employee,Customer 2
+Provider 62,Sep-22,NA,Active,BHMP,Employee,Customer 4
+Provider 63,Sep-22,NA,Active,Therapist,Employee,Customer 2
+Provider 64,Sep-22,NA,Active,Therapist,Employee,Outpatient
+Provider 65,Oct-22,NA,Active,Therapist,Employee,Customer 2
+Provider 66,Oct-22,NA,Active,BHMP,Employee,Customer 4
+Provider 67,Oct-22,NA,Active,Therapist,Employee,Customer 5
+Provider 68,Oct-22,NA,Active,Therapist,Employee,Outpatient
+Provider 69,Mar-22,NA,Active,Therapist,Employee,Customer 2
+Provider 70,Mar-20,NA,Active,Supervisors,Independent Contractor,Outpatient
+Provider 71,Apr-20,NA,Active,Supervisors,Independent Contractor,Customer 1
+Provider 72,Aug-21,NA,Active,Supervisors,Independent Contractor,Customer 2
+Provider 73,Oct-22,NA,Active,Supervisors,Independent Contractor,Customer 4
+Provider 74,Sep-20,NA,Active,Therapist,Employee,Customer 1
+Provider 75,Nov-20,NA,Active,Therapist,Employee,Customer 1
+Provider 76,Oct-21,NA,Active,Therapist,Employee,Customer 1
+Provider 77,Nov-21,NA,Active,Therapist,Employee,Customer 2
+Provider 78,Dec-21,NA,Active,Therapist,Employee,Outpatient
+Provider 79,Mar-22,NA,Active,Therapist,Employee,Customer 2
+Provider 80,Nov-22,NA,Active,Therapist,Employee,Outpatient
+Provider 81,Nov-20,NA,Active,BHMP,Independent Contractor,Customer 1
+Provider 89,Feb-21,Oct-22,Lost,Therapist,Employee,Customer 1
+Provider 90,Feb-20,Oct-21,Lost,Therapist,Independent Contractor,Corporate
+Provider 91,Oct-20,Dec-21,Lost,BHMP,Employee,Customer 1
+Provider 92,Nov-20,Dec-21,Lost,Therapist,Employee,Customer 1
+Provider 93,Feb-21,Nov-21,Lost,BHMP,Employee,Customer 1
+Provider 94,Aug-21,May-22,Lost,Therapist,Employee,Customer 2
+Provider 95,Aug-21,Jun-22,Lost,Therapist,Employee,Customer 2
+Provider 96,Mar-20,Mar-22,Inactive,BHMP,Independent Contractor,Customer 1
+Provider 97,Oct-21,Aug-22,Inactive,BHMP,Independent Contractor,Outpatient
+Provider 98,Jun-22,Nov-22,Inactive,BHMP,Independent Contractor,Outpatient
+Provider 99,Apr-20,Jan-22,Inactive,Therapist,Independent Contractor,Corporate
+Provider 100,Jun-21,May-22,Inactive,Therapist,Employee,Customer 2
+Provider 101,Oct-19,Jan-22,Inactive,Therapist,Independent Contractor,Corporate
+Provider 102,Feb-20,Feb-22,Inactive,BHMP,Independent Contractor,Customer 1
+Provider 103,Mar-20,May-21,Inactive,BHMP,Employee,Customer 1
+Provider 104,Mar-20,Feb-22,Inactive,Therapist,Independent Contractor,Corporate
+Provider 105,Apr-20,Jan-22,Inactive,Therapist,Independent Contractor,Corporate
+Provider 106,Oct-21,Apr-22,Inactive,BHMP,Employee,Customer 1
+Provider 107,Jan-21,Jul-22,Inactive,BHMP,Independent Contractor,Corporate
+Provider 108,Aug-21,Oct-21,Not Retained,BHMP,Employee,Customer 2
+Provider 109,Mar-20,Jul-21,Not Retained,Therapist,Independent Contractor,Corporate
+Provider 110,Jul-22,Aug-22,Not Retained,Support,Employee,Outpatient
+Provider 111,Jun-22,Sep-22,Not Retained,Therapist,Employee,Outpatient
+Provider 112,Oct-22,Oct-22,Never Started,Therapist,Employee,Outpatient
+Provider 113,Dec-22,Dec-22,Never Started,Therapist,Employee,Outpatient
+Provider 114,Apr-20,Apr-20,Never Started,Therapist,Independent Contractor,Corporate
+Provider 115,Feb-21,Feb-21,Never Started,Therapist,Independent Contractor,Corporate
+Provider 116,Feb-21,Feb-21,Never Started,Therapist,Employee,Customer 1
+Provider 117,Apr-22,Apr-22,Never Started,BHMP,Employee,Corporate
+Provider 118,Oct-22,Oct-22,Never Started,Therapist,Employee,Corporate
+Provider 119,Oct-22,Oct-22,Never Started,Therapist,Employee,Corporate
